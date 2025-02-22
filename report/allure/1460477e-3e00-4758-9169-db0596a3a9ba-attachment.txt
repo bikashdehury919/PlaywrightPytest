@@ -1,0 +1,4 @@
+INFO     utills.basepage:basepage.py:17 Successfully navigated to http://localhost:8080/login
+INFO     utills.basepage:basepage.py:42 Filled #j_username with TestAutomation
+INFO     utills.basepage:basepage.py:42 Filled #j_password with TestAutomation
+INFO     utills.basepage:basepage.py:31 Clicked button[name='Submit']

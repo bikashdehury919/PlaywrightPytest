@@ -1,0 +1,1 @@
+INFO     utills.api_client:api_client.py:32 GET /facts - Status: 200

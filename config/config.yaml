@@ -1,0 +1,37 @@
+environment:
+  browser: chromium
+  platform: Windows 10
+  tested_by: Bikash Dehury
+  headless: false
+
+urls:
+  base_url: "http://localhost:8080/"
+  login_url: "http://localhost:8080/login"
+
+public_apis:
+  cat_facts: "https://cat-fact.herokuapp.com"
+
+credentials:
+  valid:
+    username: "TestAutomation"
+    password: "TestAutomation"
+  invalid:
+    username: "TestAutomation"
+    password: "wrongpassword"
+  empty:
+    username: ""
+    password: ""
+
+timeouts:
+  page_load: 30000
+  element_wait: 10000
+
+reporting:
+  allure_report_dir: "report/allure"
+  screenshot_dir: "report/screenshots"
+
+executor:
+  name: "Local Machine"
+  type: "local"
+  url: "http://localhost"
+  build_order: 1
