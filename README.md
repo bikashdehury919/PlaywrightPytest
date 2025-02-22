@@ -20,3 +20,11 @@ Before using this framework, ensure the following tools are installed:
 * pip (Python package manager)
 * Git (for version control)
 * Jenkins (optional, for CI/CD)
+
+# Reports
+![image](https://github.com/user-attachments/assets/6c9b3ffe-c96f-431d-aa43-9d15337e74fb)
+![image](https://github.com/user-attachments/assets/6799b9e7-3037-4e0b-890b-005d0108ab21)
+![image](https://github.com/user-attachments/assets/1532f44c-a832-4648-ae45-33204399faef)
+
+
+
